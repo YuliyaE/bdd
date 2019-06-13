@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Parallel test suite" duration-ms="15" started-at="2019-06-13T11:07:36 MSK" finished-at="2019-06-13T11:07:36 MSK">
+    <groups>
+    </groups>
+    <test name="Test 1" duration-ms="15" started-at="2019-06-13T11:07:36 MSK" finished-at="2019-06-13T11:07:36 MSK">
+    </test> <!-- Test 1 -->
+  </suite> <!-- Parallel test suite -->
+  <suite name="Default Suite" duration-ms="0" started-at="2019-06-13T11:07:37 MSK" finished-at="2019-06-13T11:07:37 MSK">
+    <groups>
+    </groups>
+  </suite> <!-- Default Suite -->
+</testng-results>

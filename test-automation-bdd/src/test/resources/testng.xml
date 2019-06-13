@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Parallel test suite">
+    <test name="Test 1">
+        <classes>
+            <class name="by.yuliya.calculator.teststeps.GoogleCLoudCheckSteps" />
+        </classes>
+    </test>
+
+</suite>
